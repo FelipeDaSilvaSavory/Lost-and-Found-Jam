@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - StopScene
+  - StartScene
+  - PauseScene
+  - SkullCard
+  - DeadGuy
+  - Skull
+  - Sythe
+  - Turn
+  - Platformer
+  - Door
+  - Sign1
+  - Sign2
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Gone
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 927552677
+    locked: 0
+  - name: BackPlates
+    uniqueID: 4153677053
+    locked: 0
+  - name: Platforms
+    uniqueID: 3664433603
+    locked: 0
+  - name: Ground
+    uniqueID: 3096862405
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
