@@ -4,20 +4,9 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Ground
-  - StopScene
-  - StartScene
-  - PauseScene
-  - SkullCard
-  - DeadGuy
-  - Skull
-  - Sythe
-  - Turn
-  - Platformer
   - Door
-  - Sign1
-  - Sign2
-  - Enemy
+  - Object
+  - Interaction
   layers:
   - Default
   - TransparentFX
@@ -52,18 +41,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Background
-    uniqueID: 927552677
-    locked: 0
-  - name: BackPlates
-    uniqueID: 4153677053
-    locked: 0
-  - name: Platforms
-    uniqueID: 3664433603
-    locked: 0
-  - name: Ground
-    uniqueID: 3096862405
-    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 3848128069
+    locked: 0
+  - name: Wall
+    uniqueID: 3624192547
+    locked: 0
+  - name: Objects
+    uniqueID: 2644376787
+    locked: 0
+  - name: Player
+    uniqueID: 4012105125
     locked: 0
