@@ -40,6 +40,15 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
+                },
+                {
+                    "name": "Run",
+                    "type": "Button",
+                    "id": "037595bb-8e4c-46cf-b74e-ad4d6bf201e7",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -293,6 +302,28 @@
                     "processors": "",
                     "groups": "Joystick",
                     "action": "Interact",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "bd29aa36-4a2e-4a9e-8089-024ab76c0159",
+                    "path": "<Gamepad>/buttonWest",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Gamepad",
+                    "action": "Run",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "73c35b94-1c82-4f24-a0c1-5d3fecb2c5ac",
+                    "path": "<Keyboard>/leftShift",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Keyboard&Mouse",
+                    "action": "Run",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
